@@ -1,1 +1,1 @@
-It's incomplete.
+This project is incomplete.
